@@ -11,3 +11,5 @@ Here is how to join the already massive club!
 Check your email often to get the invite, we will close the issue once you have been invited. 
 
 When you join make sure you set [visibility to public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership), you are allowed to create and fork repos, so go wild!
+
+### Please do not edit this repository!!
