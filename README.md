@@ -1,5 +1,5 @@
 # Welcome, @everyone!
-
+# ! WE ARE UNABLE TO ADD ANYMORE PEOPLE, WE WILL ADD YOU ONCE ITS RESOLVED !
 Here is how to join the already massive club!
 
 1. Make sure you are logged into your github account.
