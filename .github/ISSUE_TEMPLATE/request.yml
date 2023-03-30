@@ -14,3 +14,8 @@ body:
         When you join make sure you [set visibility to
         public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership),
         you are allowed to create and fork repos, so go wild!
+  - type: input
+    attributes:
+      label: Leave this empty
+      description: or not, it will not matter
+      value: Let me in!
