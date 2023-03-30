@@ -1,0 +1,16 @@
+name: Request to join
+description: Simply make and submit this issue to join!
+title: Request to join
+labels:
+  - help wanted
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Next, just click submit and you are all done, check your email for the
+        invite and spread the word!
+
+
+        When you join make sure you [set visibility to
+        public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership),
+        you are allowed to create and fork repos, so go wild!
