@@ -1,5 +1,5 @@
 # Welcome, @everyone!
-# ! WE ARE UNABLE TO ADD ANYMORE PEOPLE, WE WILL ADD YOU ONCE ITS RESOLVED !
+# ! We regret to inform you that, at the moment, we have reached our capacity and cannot accommodate any more participants. However, please rest assured that we are working diligently to address this issue and expand our capacity to include more individuals. As soon as we have resolved the situation, we will make sure to add you to our list of participants. We apologize for any inconvenience this may cause and appreciate your patience and understanding during this time. Please feel free to reach out if you have any questions or concerns. !
 Here is how to join the already massive club!
 
 1. Make sure you are logged into your github account.
