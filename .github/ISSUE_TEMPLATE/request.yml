@@ -2,12 +2,13 @@ name: Request to join
 description: Simply make and submit this issue to join!
 title: Request to join
 labels:
+  - join request
   - help wanted
 body:
   - type: markdown
     attributes:
       value: >-
-        Next, just click submit and you are all done, check your email for the
+        Next, just click submit and you are all done, check your email often for the
         invite and spread the word!
 
 
