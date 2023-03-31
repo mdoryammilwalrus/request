@@ -1,5 +1,5 @@
 # Welcome, @everyone!
-# !  Due to GitHub ratelimits, we can't add any more people at this time - we hope to get this resolved soon !
+
 
 1. Make sure you are logged into your github account.
 2. Go to issues and press create ([or click here](https://github.com/3v3ry0n3/request-to-join/issues/new/choose)).
