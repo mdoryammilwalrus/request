@@ -2,7 +2,7 @@
 
 
 1. Make sure you are logged into your github account.
-2. [Click Here](github.com/3v3ry0n3/request/issues/new?assignees=3kh0%2CAsleep123%2Cproudparrot2%2CRussell2259&labels=join+request%2Chelp+wanted&template=request.yml&title=Request+to+join) to create a issue
+2. [Click Here](https://github.com/3v3ry0n3/request/issues/new?assignees=3kh0%2CAsleep123%2Cproudparrot2%2CRussell2259&labels=join+request%2Chelp+wanted&template=request.yml&title=Request+to+join) to create a issue
 4. Near the bottom of the box, hit `Submit new issue`.
 5. Profit!
 
