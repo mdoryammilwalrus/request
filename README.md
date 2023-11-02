@@ -2,8 +2,7 @@
 
 
 1. Make sure you are logged into your github account.
-2. Go to issues and press create ([or click here](https://github.com/3v3ry0n3/request-to-join/issues/new/choose)).
-3. On the `Request to join` row, click the green `Get started` button.
+2. [Click Here](https://github.com/3v3ry0n3/request/issues/new/choose) to create a issue
 4. Near the bottom of the box, hit `Submit new issue`.
 5. Profit!
 

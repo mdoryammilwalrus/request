@@ -1,9 +1,16 @@
+# If you edit this, make sure to update the link in the README
 name: Request to join
 description: Simply make and submit this issue to join!
 title: Request to join
 labels:
   - join request
   - help wanted
+# Owner usernames go here
+assignees:
+  - 3kh0
+  - Asleep123
+  - proudparrot2
+  - Russell2259
 body:
   - type: markdown
     attributes:
